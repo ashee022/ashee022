@@ -9,3 +9,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
 
 
+<p align="center">
+  <img src="assets/ea_logo_spin.svg" width="160" alt="EA rotating logo"/>
+</p>
+
+
