@@ -10,7 +10,6 @@
 
 
 <p align="center">
-  <img src="assets/ea_logo_spin.svg" width="160" alt="EA rotating logo"/>
+  <img src="enterpriseLogo.svg" width="160" alt="Rotating EA logo"/>
 </p>
-
 
