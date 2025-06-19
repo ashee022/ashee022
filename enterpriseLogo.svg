@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg"
-     width="160" height="160" viewBox="0 0 160 160">
-
-  <defs>
-    <image id="logo" href="assets/EA_logo.png" 
-           width="160" height="160"/>
-  </defs>
-
-  <use href="#logo">                            
-    <animateTransform attributeName="transform" type="rotate"
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" viewBox="0 0 160 160">
+  <image
+      href="data:image/png;base64,YOUR_LONG_BASE64_STRING"
+      width="160" height="160">
+    <animateTransform attributeName="transform" attributeType="XML"
+                      type="rotate"
                       from="0 80 80" to="-360 80 80"
                       dur="12s" repeatCount="indefinite"/>
-  </use>
+  </image>
 </svg>
