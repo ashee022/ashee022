@@ -4,4 +4,4 @@
        width="160" alt="EA rotating logo"/>
 </p>
 
-![Demo](assets/g.gif)
+![Demo](assets/9.gif)
